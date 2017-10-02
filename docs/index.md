@@ -21,11 +21,11 @@ Migration List
 
 Resource Balancing:
 
-![](./Picuture1.png)
+![](.\Picuture1.png)
 
-![](./Picuture2.png)
+![](.\Picuture2.png)
 
-![](./Picuture3.png)
+![](.\Picuture3.png)
 
 
 Future Work:
