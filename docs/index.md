@@ -26,3 +26,10 @@ Resource Balancing:
 ![](./Picuture2.png)
 
 ![](./Picuture3.png)
+
+
+Future Work:
+
+To achieve green computing for systems with multi-resource constraints
+
+To multiplex virtual to physical resources adaptively based on the changing demands.
